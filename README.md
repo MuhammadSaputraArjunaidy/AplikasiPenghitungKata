@@ -1,9 +1,10 @@
 
-# Aplikasi Perhitungan Kata
+# Aplikasi Penghitungan Kata
 
 
 
 # Deskripsi
+
 aplikasi ini digunakan untuk menganalisis teks yang dimasukkan oleh pengguna. Pengguna dapat menghitung jumlah kata, karakter, kalimat, dan paragraf dalam teks serta mencari kata tertentu dalam teks tersebut.
 # Features
 
@@ -29,10 +30,9 @@ Berikut adalah deskripsi fitur-fitur utama aplikasi ini:
 
 - Kata Yang Ingin di Cari: Kolom input untuk memasukkan kata yang ingin dicari dalam teks.
 - Cari: Tombol untuk mencari kata yang dimasukkan dalam teks. Hasil pencarian akan ditampilkan di bagian bawah.
-- Hasil Pencarian: Bagian untuk menampilkan hasil pencarian kata yang dimasukkan, mungkin berisi jumlah kemunculan kata atau daftar kemunculannya.
-# Source Code
-
-```
+- Hasil Pencarian: Bagian untuk menampilkan hasil pencarian kata yang dimasukkan, mungkin berisi jumlah kemunculan kata atau daftar kemunculannya. 
+ # Source Code
+ ```java
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -295,10 +295,12 @@ public class AplikasiPenghitunganKataFramea extends javax.swing.JFrame {
     // End of variables declaration                   
 }
 
+```
 
-        ```
 
-## Authors
+
+
+# Authors
 
 - MuhammadSaputraArjunaidy
 - 2210010300
@@ -306,4 +308,4 @@ public class AplikasiPenghitunganKataFramea extends javax.swing.JFrame {
 - [@MuhammadSaputraArjunaidy](https://www.github.com/MuhammadSaputraArjunaidy)
 
 
-## Screenshot
+#  Screenshot
