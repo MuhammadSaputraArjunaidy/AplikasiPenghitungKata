@@ -309,3 +309,5 @@ public class AplikasiPenghitunganKataFramea extends javax.swing.JFrame {
 
 
 #  Screenshot
+
+![image](https://github.com/user-attachments/assets/b3bad249-0557-4a39-a2fa-0c26fece684f)
